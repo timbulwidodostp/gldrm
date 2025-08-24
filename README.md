@@ -1,6 +1,8 @@
 # gldrm
 Semiparametric Generalized Linear Models Use gldrm With (In) R software
 
+https://www.youtube.com/watch?v=a1VU6Bcmv2A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
